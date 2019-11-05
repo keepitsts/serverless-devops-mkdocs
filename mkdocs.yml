@@ -1,0 +1,9 @@
+site_name: Jenkins for Serverless
+
+
+
+nav:
+    - Home: index.md
+    - Overview: overview.md
+    - Code: code.md
+    - Diagram: diagram.md
